@@ -3,6 +3,8 @@
 
 A GUI tool to edit and add dialog to BDSP.
 
+export and import options added
+
 Supports DSPRE formatters:
 
 \f
