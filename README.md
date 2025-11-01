@@ -18,6 +18,7 @@ Supports filtering messages by the speaker (e.g. filter just Professor Rowan's m
 Supports the following commercial font for preview if available: https://fontworks.co.jp/fontsearch/udkakugoc80pro-m/?word=UD%20Kakugo_Condensation%2080%20M
 
 <img width="1559" height="652" alt="Przechwytywanie" src="https://github.com/user-attachments/assets/0f4b7c63-146f-46be-8f2e-216abcd82b27" />
+
 ![image](https://github.com/ycdevbdsp/BDSP-worddatagen/assets/56665250/092b4af1-58e6-456b-a6d0-da91b9ab503b)
 
 
