@@ -19,7 +19,13 @@ Supports filtering messages by the speaker (e.g. filter just Professor Rowan's m
 
 Supports the following commercial font for preview if available: https://fontworks.co.jp/fontsearch/udkakugoc80pro-m/?word=UD%20Kakugo_Condensation%2080%20M
 
+NEW
+
 <img width="1559" height="652" alt="Przechwytywanie" src="https://github.com/user-attachments/assets/0f4b7c63-146f-46be-8f2e-216abcd82b27" />
+
+OLD
+
+![image](https://github.com/ycdevbdsp/BDSP-worddatagen/assets/56665250/092b4af1-58e6-456b-a6d0-da91b9ab503b)
 
 Setting font color of individual dialog strings is technically possible using a standard HTML <color> tag. The vanilla game tends to put the <color> tags on their own line, and you'll see that throughout as you look at messages.
 You can globally set the font color of all messages, excluding the color tags that are already set in messages (such as Rowan referring to the Pokedex in text), using the "Set All Color" button and selecting a color from the picker. Once you make this global setting, you won't be able to globally change the color (yet). Keep a copy of the original message without global color settings should you wish to change the color more than once. Again, you can still technically change the color individually with the text editor though it's cumbersome to do so right now and I don't have immediate intent to improve that capability.
