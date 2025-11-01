@@ -32,8 +32,9 @@ The table on the right lists out all messages in the selected file "at a glance"
 
 The "Adventure Notes" button opens a secondary form that allows editing Guidebook entries specifically. They're treated a little differently from standard dialog, and a request was made to split that out to allow for adding/editing Guidebook entries.
 
-![image](https://github.com/ycdevbdsp/BDSP-worddatagen/assets/56665250/69e5512c-d9de-4eec-b9fb-e23d4a59e1e6)
 
+![image](https://github.com/ycdevbdsp/BDSP-worddatagen/assets/56665250/69e5512c-d9de-4eec-b9fb-e23d4a59e1e6)
+<img width="1559" height="652" alt="Przechwytywanie" src="https://github.com/user-attachments/assets/0f4b7c63-146f-46be-8f2e-216abcd82b27" />
 I recommend launching the tool from a command shell as a result so any crash exceptions can be preserved. Feel free to DM me on twitter @ycdev_lum
 
 **Full Changelog**: https://github.com/ycdevbdsp/BDSP-worddatagen/compare/beta...beta
